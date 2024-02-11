@@ -1,0 +1,23 @@
+*
+{
+  font-family: 'Poppins', sans-serif;    
+}
+.banner
+{
+  background-image: url(./images/bg-img.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 0;
+  color: white;
+}
+.whatsapp
+{
+    color: rgb(46, 229, 46);
+    font-size: 43px;
+    border-radius: 50px;
+}
+.icons_px
+{
+    border-radius: 50px;
+    font-size: 40px;
+}
