@@ -4,7 +4,7 @@
 }
 .banner
 {
-  background-image: url(./images/bg-img.jpeg);
+  background-image: url(../images/bg-img.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 250px 0;
